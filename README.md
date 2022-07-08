@@ -10,3 +10,11 @@ The For Practice purpose and an Assessment
 5. git remote add origin git@github.com:arpitkonweb/AngularOnGit.git
 6. git branch -M main
 7. git push -u origin main
+
+
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/arpitkonweb/TestApplicationNew.git
+git branch -M main
+git push -u origin main
